@@ -7,3 +7,4 @@ langchain-core
 transformers
 langchain-chroma
 sentence-transformers
+langchain-huggingface
